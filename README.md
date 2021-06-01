@@ -1,4 +1,4 @@
-![](https://github.com/TSMaitry/VirusX/raw/master/img/IMG_20200128_154104.jpg)
+
 # VirusX
 ## VirusX is a tool for Termux to create virus for Android device.
 ### Installation :
@@ -9,8 +9,8 @@
 $ apt update && apt upgrade
 $ apt install git
 $ pkg install python
-$ git clone https://github.com/TSMaitry/VirusX.git
-$ cd VirusX
+$ git clone https://github.com/T33kayX/VirusXX.git
+$ cd VirusXX
 $ chmod +x VirusX.py
 $ python2 VirusX.py
 ```
