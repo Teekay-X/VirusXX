@@ -22,4 +22,4 @@ $ python2 VirusX.py
 $ update virusx
 ```
 
-## By T33kay aka Asahluma
+## By T33kay aka Asahluma mabhongo
